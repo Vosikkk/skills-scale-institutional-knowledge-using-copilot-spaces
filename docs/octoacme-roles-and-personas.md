@@ -75,7 +75,132 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## QA/Testing Lead
+
+### Role Summary
+QA/Testing Leads own quality standards, test planning, and validation of acceptance criteria. They collaborate with developers and product managers to ensure features meet quality gates before release.
+
+### Responsibilities
+- Define and maintain test plans and quality criteria
+- Validate acceptance criteria before features enter QA
+- Execute manual and automated tests
+- Report quality metrics and blockers
+- Participate in retrospectives to improve testing processes
+- Identify edge cases and potential risks in feature design
+
+### Goals
+- Catch defects early and reduce production incidents
+- Enable fast feedback cycles through efficient testing
+- Build confidence in release quality
+
+### Typical Communication
+- QA review meetings before feature sign-off
+- Daily standup updates on test progress
+- Quality dashboards and trend reporting
+
+---
+
+## Technical Architect/Lead
+
+### Role Summary
+Technical Leads make architectural decisions, define technical standards, and ensure scalability and maintainability of the codebase. They mentor developers and unblock technical challenges.
+
+### Responsibilities
+- Define system architecture and technical standards
+- Review design proposals and provide technical guidance
+- Identify technical debt and propose mitigation
+- Mentor junior developers and conduct code reviews
+- Assess feasibility and technical risks of backlog items
+- Guide performance and security improvements
+
+### Goals
+- Maintain a scalable, maintainable codebase
+- Reduce technical debt while enabling velocity
+- Ensure architectural decisions align with product roadmap
+
+### Typical Communication
+- Technical design reviews and architecture discussions
+- Code review feedback and mentoring
+- Technical risk escalations
+
+---
+
+## Scrum Master / Agile Coach
+
+### Role Summary
+Scrum Masters facilitate agile ceremonies, remove process blockers, and coach the team on continuous improvement. They are not project managers but enablers of self-organization.
+
+### Responsibilities
+- Facilitate daily standups, planning, retrospectives, and reviews
+- Identify and help remove process impediments
+- Coach team on agile practices and ceremonies
+- Track sprint velocity and health metrics
+- Foster psychological safety and encourage feedback
+- Escalate organizational blockers to leadership
+
+### Goals
+- Enable the team to self-organize and deliver incrementally
+- Improve cycle time and team morale
+- Build a sustainable pace of delivery
+
+### Typical Communication
+- Agile ceremonies (standup, planning, retro)
+- Weekly health checks and coaching conversations
+- Impediment tracking and escalation
+
+---
+
+## Stakeholder / Sponsor
+
+### Role Summary
+Sponsors and key stakeholders provide business context, funding, and strategic direction. They make go/no-go decisions and resolve cross-organizational issues.
+
+### Responsibilities
+- Provide business context and strategic priorities
+- Make key decisions on scope, timeline, and resources
+- Communicate project status to executive leadership
+- Resolve cross-team dependencies and conflicts
+- Review and approve major deliverables
+- Champion project within the organization
+
+### Goals
+- Ensure project delivers business value
+- Maximize return on investment
+- Remove organizational barriers to success
+
+### Typical Communication
+- Monthly or milestone-based status updates
+- Executive steering committee reviews
+- Ad-hoc decision escalations
+
+---
+
+## Design / UX Lead
+
+### Role Summary
+Design and UX Leads ensure features are user-centered, accessible, and meet usability standards. They collaborate with product and engineering to translate customer needs into intuitive interfaces.
+
+### Responsibilities
+- Conduct user research and define personas
+- Create wireframes, prototypes, and design specifications
+- Validate designs through user testing
+- Define design systems and component libraries
+- Review implementation against design specs
+- Advocate for accessibility and user experience standards
+
+### Goals
+- Deliver intuitive, accessible user experiences
+- Reduce user friction and support costs
+- Build products customers love
+
+### Typical Communication
+- Design reviews and feedback sessions
+- User research findings and insights
+- Design specs and implementation guidance
+- Collaboration in sprint planning and retrospectives
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
